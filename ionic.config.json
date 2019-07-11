@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-crashlytics-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
