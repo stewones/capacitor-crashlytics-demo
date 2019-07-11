@@ -1,0 +1,7 @@
+{
+  "appId": "io.capacitor.starter",
+  "appName": "capacitor-crashlytics-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
